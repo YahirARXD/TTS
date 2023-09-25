@@ -43,7 +43,7 @@
         "bg": {
             "cv": {
                 "vits": {
-                    "github_rls_url": "https://coqui.gateway.scarf.sh/v0.8.0_models/tts_models--bg--cv--vits.zip",
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.6.1_models/tts_models--es--mai--tacotron2-DDC.zip",
                     "default_vocoder": null,
                     "commit": null,
                     "author": "@NeonGeckoCom",
