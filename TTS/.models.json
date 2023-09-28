@@ -280,7 +280,7 @@
         "es": {
             "mai": {
                 "tacotron2-DDC": {
-                    "github_rls_url": "https://coqui.gateway.scarf.sh/v0.6.1_models/tts_models--es--mai--tacotron2-DDC.zip",
+                    "github_rls_url": "https://huggingface.co/datasets/Yahir/voic/resolve/main/voz-argenta.zip",
                     "default_vocoder": "vocoder_models/universal/libri-tts/fullband-melgan",
                     "commit": "",
                     "author": "Eren Gölge @erogol",
