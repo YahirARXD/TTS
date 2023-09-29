@@ -51,7 +51,7 @@
         "cs": {
             "cv": {
                 "vits": {
-                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.8.0_models/tts_models--es--css10--vits.zip",
+                    "github_rls_url": "https://huggingface.co/datasets/Yahir/voic/resolve/main/tts.zip",
                     "default_vocoder": null,
                     "commit": null,
                     "author": "@NeonGeckoCom",
